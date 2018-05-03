@@ -1,0 +1,4 @@
+EKLIB	KEYWORD1
+pinMode	KEYWORD2
+digitalRead	KEYWORD2
+digitalRead	KEYWORD2
